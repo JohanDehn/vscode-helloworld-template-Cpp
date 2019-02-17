@@ -4,6 +4,6 @@ Since there is lots of step-by-step setups but no templates, I made my own templ
 
 Versions from which the project has been compiled and tested on.
 
-Visual Studio Code Linux AMD64 version 1.31.1
-Visual Studio Code Extension C/C++ version 0.21.8
-Ubuntu 18.04 64-bit LTS
+- Visual Studio Code Linux AMD64 version 1.31.1
+- Visual Studio Code Extension C/C++ version 0.21.8
+- Ubuntu 18.04 64-bit LTS
