@@ -26,10 +26,10 @@
         {
             "name": "Linux",
             "includePath": [
-                "/usr/include/c++/5",
-                "/usr/include/x86_64-linux-gnu/c++/5",
+               "/usr/include/c++/11",
+                "/usr/include/x86_64-linux-gnu/c++/11",
                 "/usr/local/include",
-                "/usr/lib/clang/3.5.2/include",
+                "/usr/lib/clang/14.0.0/include",
                 "/usr/include",
                 "/usr/include/x86_64-linux-gnu",
                 "${workspaceRoot}"
@@ -38,10 +38,10 @@
             "intelliSenseMode": "clang-x64",
             "browse": {
                 "path": [
-                    "/usr/include/c++/5",
-                    "/usr/include/x86_64-linux-gnu/c++/5",
+                    "/usr/include/c++/11",
+                    "/usr/include/x86_64-linux-gnu/c++/11",
                     "/usr/local/include",
-                    "/usr/lib/clang/3.5.2/include",
+                    "/usr/lib/clang/14.0.0/include",
                     "/usr/include",
                     "/usr/include/x86_64-linux-gnu",
                     "${workspaceRoot}"
